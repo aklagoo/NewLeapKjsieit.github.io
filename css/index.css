@@ -57,6 +57,7 @@ span{
 	opacity:0;
 }
 .main{
+	text-align: centre;
 	width:100%;
 	box-shadow:0 5px 5px #AFAFAF;
 	padding:0px;
