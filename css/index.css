@@ -4,7 +4,6 @@ body {
 	margin: 0;
 	background-color: #FAFAFA;
 	cursor: default;
-	-webkit-transform: translate3D(0, 0, 0);
 }
 
 ul {
